@@ -49,7 +49,7 @@ module.exports.datastores = {
     *                                                                          *
     ***************************************************************************/
     adapter: 'sails-mongo',
-    url: 'mongodb://nquinn:nquinn1@ds119650.mlab.com:19650/qchat',
+    url: 'mongodb://cquinn:testing123@ds229450.mlab.com:29450/qchat',
 
   },
 
